@@ -1,0 +1,44 @@
+task,category
+Call client regarding project update,Meeting
+Schedule sprint planning meeting,Meeting
+Arrange stakeholder discussion,Meeting
+Join daily standup meeting,Meeting
+Conduct weekly review meeting,Meeting
+Book client demo session,Meeting
+Discuss requirements with team,Meeting
+Attend project kickoff meeting,Meeting
+Schedule retrospective meeting,Meeting
+Coordinate with vendor on call,Meeting
+
+Prepare monthly report,Work
+Complete dashboard testing,Work
+Fix production bug,Work
+Update technical documentation,Work
+Review source code,Work
+Deploy application update,Work
+Analyze business requirements,Work
+Optimize database query,Work
+Create project presentation,Work
+Develop new feature module,Work
+
+Send invoice to client,Finance
+Process vendor payment,Finance
+Review expense report,Finance
+Approve reimbursement request,Finance
+Track project budget,Finance
+Verify payment status,Finance
+Prepare tax documents,Finance
+Generate financial report,Finance
+Update billing records,Finance
+Calculate monthly expenses,Finance
+
+Buy groceries,Personal
+Book doctor appointment,Personal
+Pay electricity bill,Personal
+Renew driving license,Personal
+Schedule gym session,Personal
+Plan family trip,Personal
+Visit dentist,Personal
+Book train ticket,Personal
+Pay internet bill,Personal
+Order household items,Personal
