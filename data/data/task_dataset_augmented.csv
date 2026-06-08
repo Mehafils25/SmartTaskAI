@@ -1,0 +1,161 @@
+task,category
+Call client regarding project update,Meeting
+Urgent: Call client regarding project update,Meeting
+Please call client regarding project update,Meeting
+Need to call client regarding project update,Meeting
+Schedule sprint planning meeting,Meeting
+Urgent: Schedule sprint planning meeting,Meeting
+Please schedule sprint planning meeting,Meeting
+Need to schedule sprint planning meeting,Meeting
+Arrange stakeholder discussion,Meeting
+Urgent: Arrange stakeholder discussion,Meeting
+Please arrange stakeholder discussion,Meeting
+Need to arrange stakeholder discussion,Meeting
+Join daily standup meeting,Meeting
+Urgent: Join daily standup meeting,Meeting
+Please join daily standup meeting,Meeting
+Need to join daily standup meeting,Meeting
+Conduct weekly review meeting,Meeting
+Urgent: Conduct weekly review meeting,Meeting
+Please conduct weekly review meeting,Meeting
+Need to conduct weekly review meeting,Meeting
+Book client demo session,Meeting
+Urgent: Book client demo session,Meeting
+Please book client demo session,Meeting
+Need to book client demo session,Meeting
+Discuss requirements with team,Meeting
+Urgent: Discuss requirements with team,Meeting
+Please discuss requirements with team,Meeting
+Need to discuss requirements with team,Meeting
+Attend project kickoff meeting,Meeting
+Urgent: Attend project kickoff meeting,Meeting
+Please attend project kickoff meeting,Meeting
+Need to attend project kickoff meeting,Meeting
+Schedule retrospective meeting,Meeting
+Urgent: Schedule retrospective meeting,Meeting
+Please schedule retrospective meeting,Meeting
+Need to schedule retrospective meeting,Meeting
+Coordinate with vendor on call,Meeting
+Urgent: Coordinate with vendor on call,Meeting
+Please coordinate with vendor on call,Meeting
+Need to coordinate with vendor on call,Meeting
+Prepare monthly report,Work
+Urgent: Prepare monthly report,Work
+Please prepare monthly report,Work
+Need to prepare monthly report,Work
+Complete dashboard testing,Work
+Urgent: Complete dashboard testing,Work
+Please complete dashboard testing,Work
+Need to complete dashboard testing,Work
+Fix production bug,Work
+Urgent: Fix production bug,Work
+Please fix production bug,Work
+Need to fix production bug,Work
+Update technical documentation,Work
+Urgent: Update technical documentation,Work
+Please update technical documentation,Work
+Need to update technical documentation,Work
+Review source code,Work
+Urgent: Review source code,Work
+Please review source code,Work
+Need to review source code,Work
+Deploy application update,Work
+Urgent: Deploy application update,Work
+Please deploy application update,Work
+Need to deploy application update,Work
+Analyze business requirements,Work
+Urgent: Analyze business requirements,Work
+Please analyze business requirements,Work
+Need to analyze business requirements,Work
+Optimize database query,Work
+Urgent: Optimize database query,Work
+Please optimize database query,Work
+Need to optimize database query,Work
+Create project presentation,Work
+Urgent: Create project presentation,Work
+Please create project presentation,Work
+Need to create project presentation,Work
+Develop new feature module,Work
+Urgent: Develop new feature module,Work
+Please develop new feature module,Work
+Need to develop new feature module,Work
+Send invoice to client,Finance
+Urgent: Send invoice to client,Finance
+Please send invoice to client,Finance
+Need to send invoice to client,Finance
+Process vendor payment,Finance
+Urgent: Process vendor payment,Finance
+Please process vendor payment,Finance
+Need to process vendor payment,Finance
+Review expense report,Finance
+Urgent: Review expense report,Finance
+Please review expense report,Finance
+Need to review expense report,Finance
+Approve reimbursement request,Finance
+Urgent: Approve reimbursement request,Finance
+Please approve reimbursement request,Finance
+Need to approve reimbursement request,Finance
+Track project budget,Finance
+Urgent: Track project budget,Finance
+Please track project budget,Finance
+Need to track project budget,Finance
+Verify payment status,Finance
+Urgent: Verify payment status,Finance
+Please verify payment status,Finance
+Need to verify payment status,Finance
+Prepare tax documents,Finance
+Urgent: Prepare tax documents,Finance
+Please prepare tax documents,Finance
+Need to prepare tax documents,Finance
+Generate financial report,Finance
+Urgent: Generate financial report,Finance
+Please generate financial report,Finance
+Need to generate financial report,Finance
+Update billing records,Finance
+Urgent: Update billing records,Finance
+Please update billing records,Finance
+Need to update billing records,Finance
+Calculate monthly expenses,Finance
+Urgent: Calculate monthly expenses,Finance
+Please calculate monthly expenses,Finance
+Need to calculate monthly expenses,Finance
+Buy groceries,Personal
+Urgent: Buy groceries,Personal
+Please buy groceries,Personal
+Need to buy groceries,Personal
+Book doctor appointment,Personal
+Urgent: Book doctor appointment,Personal
+Please book doctor appointment,Personal
+Need to book doctor appointment,Personal
+Pay electricity bill,Personal
+Urgent: Pay electricity bill,Personal
+Please pay electricity bill,Personal
+Need to pay electricity bill,Personal
+Renew driving license,Personal
+Urgent: Renew driving license,Personal
+Please renew driving license,Personal
+Need to renew driving license,Personal
+Schedule gym session,Personal
+Urgent: Schedule gym session,Personal
+Please schedule gym session,Personal
+Need to schedule gym session,Personal
+Plan family trip,Personal
+Urgent: Plan family trip,Personal
+Please plan family trip,Personal
+Need to plan family trip,Personal
+Visit dentist,Personal
+Urgent: Visit dentist,Personal
+Please visit dentist,Personal
+Need to visit dentist,Personal
+Book train ticket,Personal
+Urgent: Book train ticket,Personal
+Please book train ticket,Personal
+Need to book train ticket,Personal
+Pay internet bill,Personal
+Urgent: Pay internet bill,Personal
+Please pay internet bill,Personal
+Need to pay internet bill,Personal
+Order household items,Personal
+Urgent: Order household items,Personal
+Please order household items,Personal
+Need to order household items,Personal
